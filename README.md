@@ -18,7 +18,6 @@ The `.keras` model files are **not included in this GitHub repository** because 
 Excluded model files include:
 
 - `deteXTB_final_mandaue_model.keras`
-- `tb_best_resnetmodel.keras`
 
 The app expects the main model file to be named:
 
